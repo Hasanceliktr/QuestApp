@@ -8,6 +8,7 @@ public class QuestAppApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(QuestAppApplication.class, args);
+        System.out.println("Test commit");
     }
 
 }
